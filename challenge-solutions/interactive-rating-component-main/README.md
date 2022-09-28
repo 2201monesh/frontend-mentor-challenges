@@ -36,7 +36,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://monesh-frontend-mentor-challenge2.netlify.app)
+- Live Site URL: [Click to open site](https://monesh-frontend-mentor-challenge2.netlify.app)
 
 ## My process
 
@@ -70,7 +70,7 @@ In future projects I would like to to focus more on advance CSS properties like 
 
 ## Author
 
-- Website - [Monesh Goyal](https://www.your-site.com)
+- Website - [Monesh Goyal](https://2201monesh.github.io/Monesh-Goyal/)
 - Frontend Mentor - [@2201monesh](https://www.frontendmentor.io/profile/2201monesh)
 - Twitter - [@GoyalMonesh](https://www.twitter.com/GoyalMonesh)
 
